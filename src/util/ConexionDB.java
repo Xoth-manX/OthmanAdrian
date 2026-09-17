@@ -9,5 +9,7 @@ package util;
  * @author 2DAM
  */
 public class ConexionDB {
-    
+    private static final String URL="";
+    private static final String USER="root";
+    private static final String PASS="";
 }
